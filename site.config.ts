@@ -14,7 +14,7 @@ export default siteConfig({
   author: '0x2024antonio',
 
   // open graph metadata (optional)
-  description: '0x2024antonio porfolio',
+  description: '0x2024antonio portfolio',
 
   // social usernames (optional)
   twitter: '0x2024antonio',
