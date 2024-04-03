@@ -9,18 +9,18 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Welcome to 0x2024antonio.eth',
-  domain: '0x2024antonio.eth',
-  author: '0x2024antonio',
+  name: 'Welcome to antonioszeto.com',
+  domain: 'antonioszeto.com',
+  author: 'antonioszeto',
 
   // open graph metadata (optional)
-  description: '0x2024antonio portfolio',
+  description: 'antonioszeto portfolio',
 
   // social usernames (optional)
-  twitter: '0x2024antonio',
-  github: '0x2024antonio',
+  twitter: 'antonioszeto',
+  github: 'antoniosehk',
   linkedin: 'antonioszeto',
-  email: '0x2024antonio@gmail.com',
+  email: 'antonioszeto@gmail.com',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
